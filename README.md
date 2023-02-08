@@ -1,1 +1,1 @@
-# My Porject
+Shell basics project
